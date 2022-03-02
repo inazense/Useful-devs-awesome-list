@@ -25,9 +25,13 @@ A curated awesome list with multiple useful resources for developers
 	- [Cleaners](#cleaners)
 	- [Compressors](#compressors)
 	- [Converters](#converters)
+	- [Editors](#editors)
 	- [Generation](#generation)
+	- [Resizer](#resizer)
 - [Languages](#languages)
+- [Maps](#maps)
 - [Mockups](#mockups)
+	- [Apps mockups](#apps-mockups)
 	- [Image mockups](#image-mockups)
 	- [Server mockups](#server-mockups)
 - [PDF](#pdf)
@@ -35,6 +39,7 @@ A curated awesome list with multiple useful resources for developers
 - [Record](#record)
 - [Regex](#regex)
 - [Texts](#texts)
+- [Recopilations](#recopilations)
 
 <hr>
 
@@ -88,7 +93,9 @@ A curated awesome list with multiple useful resources for developers
 
 ## Data
 
+- __[Generate data](https://generatedata.com)__ JSON and SQL test data generation
 - __[Mockaroo](https://www.mockaroo.com)__ JSON and SQL test data generation
+- __[Random user](https://randomuser.me)__ Random user generator
 
 ## Dates
 
@@ -110,8 +117,6 @@ A curated awesome list with multiple useful resources for developers
 - __[Icons 8](https://icons8.com)__ Icons, illustrations, photos, music and design tools
 - __[Icon Duck](https://iconduck.com)__ Open source icons and illustrations
 - __[Logo Makr](https://logomakr.com/)__ Free logo maker
-- __[Pixlr](https://pixlr.com/)__ Photos, animations and design editor
-
 
 ## Image
 ### Cleaners
@@ -128,17 +133,36 @@ A curated awesome list with multiple useful resources for developers
 
 - __[Base64 Image](https://www.base64-image.de)__ Image to/for base64 converter
 
+### Editors
+
+- __[Pixlr](https://pixlr.com/)__ Photos, animations and design editor
+- __[Photopea](https://www.photopea.com)__ Free and online "photoshop" style editor
+
 ### Generation
 
 - __[Dummy image](https://dummyimage.com)__ Random image generator. You can configure size and color
 - __[Picsum photos](https://picsum.photos)__ The lorem ipsum for photos
+
+### Resizer
+
+- __[Promo.com](https://promo.com/tools/image-resizer/)__ Free image resizer
 
 ## Languages
 
 - __[DeepL](https://www.deepl.com/translator)__ Best online translator
 - __[Google Translator](https://translate.google.com)__ ALmost best online traductor
 
+# Maps
+
+- __[Map chart](https://mapchart.net/)__ Create your own custom map
+- __[Pixelmap](https://pixelmap.amcharts.com)__ Pixel map generator
+- __[Snazzy maps](https://snazzymaps.com)__ Google maps layouts created by the community
+
 ## Mockups
+
+### Apps mockups
+
+- __[Marvel App](https://marvelapp.com/)__ Prototype, test and handoff for apps design
 ### Image mockups
 
 - __[Free-mockup](https://www.free-mockup.com)__ Big source of free photorealistic mockups online specialized on Apple mockups
@@ -170,3 +194,7 @@ A curated awesome list with multiple useful resources for developers
 ## Texts
 
 - __[Lorem ipsum](https://www.lipsum.com/)__ Lorem ipsum text generator
+
+## Recopilations
+
+- __[Free for dev](https://free-for.dev/)__ Free resources for developers
