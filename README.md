@@ -1,4 +1,4 @@
-# Useful-devs-awesome-list
+# Useful devs awesome list
 
 A curated awesome list with multiple useful resources for developers
 
