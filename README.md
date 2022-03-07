@@ -16,6 +16,7 @@ A curated awesome list with multiple useful resources for developers
 	- [Python](#python)
 	- [Style](#style)
 	- [Web](#web)
+- [Colours](#colours)
 - [Data](#data)
 - [Dates](#dates)
 - [Diagrams](#diagrams)
@@ -87,6 +88,11 @@ A curated awesome list with multiple useful resources for developers
 - __[Can I use...?](https://caniuse.com)__ Check if you can use that css or html element in different browsers
 - __[CodePen](https://codepen.io)__ Build, test, share and discover front-end code
 
+## Colours
+
+- __[MyColor space](https://mycolor.space)__ Colour generator from another colour
+- __[Coolors](https://coolors.co)__ Random colour palette generator
+- __[UI Gradients](https://uigradients.com)__ Gradient generator
 ## Email
 
 - __[Gmailnator](https://www.gmailnator.com)__ Temporal gmail generator
@@ -145,6 +151,7 @@ A curated awesome list with multiple useful resources for developers
 
 ### Resizer
 
+- __[Compressor.io](https://compressor.io/)__ Fast and efficient image compresion
 - __[Promo.com](https://promo.com/tools/image-resizer/)__ Free image resizer
 
 ## Languages
@@ -176,6 +183,7 @@ A curated awesome list with multiple useful resources for developers
 ## PDF
 
 - __[I love pdf](https://www.ilovepdf.com)__ Best site to work with pdfs. It has every tool you need
+- __[Pdf2Go](https://www.pdf2go.com/es)__ PDF online conversor
 
 ## Project management
 
