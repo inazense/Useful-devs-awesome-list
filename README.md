@@ -1,6 +1,6 @@
 # Useful devs awesome list
 
-A curated awesome list with multiple useful resources for developers
+A curated awesome list with multiple useful resources for developers (and other curious links too)
 
 ## Categories
 
@@ -20,9 +20,11 @@ A curated awesome list with multiple useful resources for developers
 - [Data](#data)
 - [Dates](#dates)
 - [Diagrams](#diagrams)
+- [Fax](#fax)
 - [IDE](#ide)
 - [Icons](#icons)
 - [Image](#image)
+	- [Banks](#banks)
 	- [Cleaners](#cleaners)
 	- [Compressors](#compressors)
 	- [Converters](#converters)
@@ -30,16 +32,20 @@ A curated awesome list with multiple useful resources for developers
 	- [Generation](#generation)
 	- [Resizer](#resizer)
 - [Languages](#languages)
+- [Manuals](#manuals)
 - [Maps](#maps)
 - [Mockups](#mockups)
 	- [Apps mockups](#apps-mockups)
 	- [Image mockups](#image-mockups)
 	- [Server mockups](#server-mockups)
+- [Office](#office)
 - [PDF](#pdf)
 - [Project management](#project-management)
 - [Record](#record)
 - [Regex](#regex)
+- [Search engines](#search-engines)
 - [Texts](#texts)
+- [Bits and bobs](#bits-and-bobs)
 - [Recopilations](#recopilations)
 
 <hr>
@@ -95,6 +101,8 @@ A curated awesome list with multiple useful resources for developers
 - __[UI Gradients](https://uigradients.com)__ Gradient generator
 ## Email
 
+- __[10 minutes mail](https://10minutemail.net/)__ Temporal mail generator. It expires after 10 minutes
+- __[Dead man switch](https://www.deadmansswitch.net/)__ Send an email after pass away
 - __[Gmailnator](https://www.gmailnator.com)__ Temporal gmail generator
 
 ## Data
@@ -112,6 +120,10 @@ A curated awesome list with multiple useful resources for developers
 - __[Draw.io](https://app.diagrams.net)__ Flowcharts generator with Google Drive integration
 - __[Whimscal](https://whimsical.com)__: Flowcharts, wireframes and mind maps generator
 
+## Fax
+
+- __[Fax zero](https://faxzero.com/)__ Send free online faxes
+
 ## IDE
 
 - __[Codeshare](https://codeshare.io)__ Online code editor with collaborations in real time and videoconference
@@ -125,6 +137,11 @@ A curated awesome list with multiple useful resources for developers
 - __[Logo Makr](https://logomakr.com/)__ Free logo maker
 
 ## Image
+
+### Banks
+
+- __[Unsplash](https://unsplash.com/)__ The internet’s source of freely-usable images
+
 ### Cleaners
 
 - __[Clean Up](https://cleanup.pictures)__ Remove object from a picture
@@ -158,6 +175,11 @@ A curated awesome list with multiple useful resources for developers
 
 - __[DeepL](https://www.deepl.com/translator)__ Best online translator
 - __[Google Translator](https://translate.google.com)__ ALmost best online traductor
+- __[Hand speak](https://www.handspeak.com/)__ Sign language online. Search the word and see how to do it
+
+## Manuals
+
+- __[Manuals lib](https://www.manualslib.com/)__ The ultimate manuals library
 
 # Maps
 
@@ -180,6 +202,10 @@ A curated awesome list with multiple useful resources for developers
 
 - __[Mockable](https://www.mockable.io/)__ Free basic rest server to test your API
 
+## Office
+
+- __[Office templates](https://templates.office.com)__ Themes and templates to use in Office suite
+
 ## PDF
 
 - __[I love pdf](https://www.ilovepdf.com)__ Best site to work with pdfs. It has every tool you need
@@ -199,10 +225,26 @@ A curated awesome list with multiple useful resources for developers
 - __[I hate Regex](https://ihateregex.io/)__ Regex expressions search tool
 - __[Regex 101](https://regex101.com/)__ Validate regex expressions
 
+## Search engines
+
+- __[DuckDuckGo](https://duckduckgo.com/)__ Search engine that not trace you, using Google searching services
+
 ## Texts
 
+- __[All characters](https://copypastecharacter.com/all-characters)__ Special characters repository
+- __[Dictation](https://dictation.io/)__ Type with your voice in different languages
 - __[Lorem ipsum](https://www.lipsum.com/)__ Lorem ipsum text generator
+
+## Virus
+
+- __[Virus total](https://www.virustotal.com/gui/home/upload)__ Scan your files to check if it has viruses
+
+## Bits and bobs
+
+- __[Checkbox race](https://checkboxrace.com)__ Speed race about pressing check buttons
+- __[Flight trader](https://www.flightradar24.com)__ 
+- __[Frinkiac](https://frinkiac.com)__ Search any The Simpsons screencaps  using words and create a gif
 
 ## Recopilations
 
-- __[Free for dev](https://free-for.dev/)__ Free resources for developers
+- __[Free for dev](https://free-for.dev)__ Free resources for developers
