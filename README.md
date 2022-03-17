@@ -32,6 +32,7 @@ A curated awesome list with multiple useful resources for developers (and other 
 	- [Generation](#generation)
 	- [Resizer](#resizer)
 - [Languages](#languages)
+- [Life](#life)
 - [Manuals](#manuals)
 - [Maps](#maps)
 - [Mockups](#mockups)
@@ -44,6 +45,7 @@ A curated awesome list with multiple useful resources for developers (and other 
 - [Record](#record)
 - [Regex](#regex)
 - [Search engines](#search-engines)
+- [Space](#space)
 - [Texts](#texts)
 - [Bits and bobs](#bits-and-bobs)
 - [Recopilations](#recopilations)
@@ -57,6 +59,8 @@ A curated awesome list with multiple useful resources for developers (and other 
 ## Ambient
 
 - __[Lofly](https://www.lofly.site)__ Lofy beats sounds and music
+- __[My noise](https://mynoise.net/)__ Sounds to be focus, relax, etc.
+- __[Rainy mood](https://rainymood.com/)__ Raining sounds
 
 ## Coding
 
@@ -177,15 +181,21 @@ A curated awesome list with multiple useful resources for developers (and other 
 - __[Google Translator](https://translate.google.com)__ ALmost best online traductor
 - __[Hand speak](https://www.handspeak.com/)__ Sign language online. Search the word and see how to do it
 
+## Life
+
+- __[Cost of living](https://www.expatistan.com/cost-of-living)__ Compare cost of living between two cities
+
 ## Manuals
 
 - __[Manuals lib](https://www.manualslib.com/)__ The ultimate manuals library
 
 # Maps
 
-- __[Map chart](https://mapchart.net/)__ Create your own custom map
+- __[GeoGuessr](https://www.geoguessr.com)__ Find clues and guess where you are in the world
+- __[Map chart](https://mapchart.net)__ Create your own custom map
 - __[Pixelmap](https://pixelmap.amcharts.com)__ Pixel map generator
 - __[Snazzy maps](https://snazzymaps.com)__ Google maps layouts created by the community
+- __[Windy](https://www.windy.com)__ Global meteorologic map
 
 ## Mockups
 
@@ -228,6 +238,13 @@ A curated awesome list with multiple useful resources for developers (and other 
 ## Search engines
 
 - __[DuckDuckGo](https://duckduckgo.com/)__ Search engine that not trace you, using Google searching services
+
+## Space
+
+- __[Solar system scope](https://www.solarsystemscope.com/)__ Interactive solar system
+- __[ISS Camera](https://eol.jsc.nasa.gov/ESRS/HDEV)__ 24h vision of the earth from the ISS station
+- __[ISS transit finder](https://transit-finder.com)__ Calculates when the ISS will be visible from a location
+- __[Stuff in space](http://stuffin.space/)__ All the satellites around the globe
 
 ## Texts
 
