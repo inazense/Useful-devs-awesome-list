@@ -6,7 +6,7 @@ A curated awesome list with multiple useful resources for developers (and other 
 
 - [Ambient](#ambient)
 - [Audio](#audio)
-- [Email](#email)
+- [Books](#books)
 - [Coding](#coding)
 	- [API](#api)
 	- [CSS](#css)
@@ -20,6 +20,7 @@ A curated awesome list with multiple useful resources for developers (and other 
 - [Data](#data)
 - [Dates](#dates)
 - [Diagrams](#diagrams)
+- [Email](#email)
 - [Fax](#fax)
 - [IDE](#ide)
 - [Icons](#icons)
@@ -47,6 +48,7 @@ A curated awesome list with multiple useful resources for developers (and other 
 - [Search engines](#search-engines)
 - [Space](#space)
 - [Texts](#texts)
+- [Tor](#tor)
 - [Bits and bobs](#bits-and-bobs)
 - [Recopilations](#recopilations)
 
@@ -61,6 +63,10 @@ A curated awesome list with multiple useful resources for developers (and other 
 - __[Lofly](https://www.lofly.site)__ Lofy beats sounds and music
 - __[My noise](https://mynoise.net/)__ Sounds to be focus, relax, etc.
 - __[Rainy mood](https://rainymood.com/)__ Raining sounds
+
+## Books
+
+- __[All IT books](https://allitebook.xyz/)__ Free IT books to download
 
 ## Coding
 
@@ -103,14 +109,10 @@ A curated awesome list with multiple useful resources for developers (and other 
 - __[MyColor space](https://mycolor.space)__ Colour generator from another colour
 - __[Coolors](https://coolors.co)__ Random colour palette generator
 - __[UI Gradients](https://uigradients.com)__ Gradient generator
-## Email
-
-- __[10 minutes mail](https://10minutemail.net/)__ Temporal mail generator. It expires after 10 minutes
-- __[Dead man switch](https://www.deadmansswitch.net/)__ Send an email after pass away
-- __[Gmailnator](https://www.gmailnator.com)__ Temporal gmail generator
 
 ## Data
 
+- __[Generador de DNI](https://generadordni.es)__ Generador de DNI, CIF, IBAN, bastidores, etc.
 - __[Generate data](https://generatedata.com)__ JSON and SQL test data generation
 - __[Mockaroo](https://www.mockaroo.com)__ JSON and SQL test data generation
 - __[Random user](https://randomuser.me)__ Random user generator
@@ -123,6 +125,12 @@ A curated awesome list with multiple useful resources for developers (and other 
 
 - __[Draw.io](https://app.diagrams.net)__ Flowcharts generator with Google Drive integration
 - __[Whimscal](https://whimsical.com)__: Flowcharts, wireframes and mind maps generator
+
+## Email
+
+- __[10 minutes mail](https://10minutemail.net)__ Temporal mail generator. It expires after 10 minutes
+- __[Dead man switch](https://www.deadmansswitch.net)__ Send an email after pass away
+- __[Gmailnator](https://www.gmailnator.com)__ Temporal gmail generator
 
 ## Fax
 
@@ -251,6 +259,10 @@ A curated awesome list with multiple useful resources for developers (and other 
 - __[All characters](https://copypastecharacter.com/all-characters)__ Special characters repository
 - __[Dictation](https://dictation.io/)__ Type with your voice in different languages
 - __[Lorem ipsum](https://www.lipsum.com/)__ Lorem ipsum text generator
+
+## Tor
+
+- __[Ahmia](https://ahmia.fi)__ Searches hidden services on the Tor network
 
 ## Virus
 
