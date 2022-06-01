@@ -10,6 +10,7 @@ A curated awesome list with multiple useful resources for developers (and other 
 - [Coding](#coding)
 	- [API](#api)
 	- [CSS](#css)
+	- [Database](#database)
 	- [Git](#git)
 	- [Javascript](#javascript)
 	- [JSON](#json)
@@ -45,8 +46,11 @@ A curated awesome list with multiple useful resources for developers (and other 
 - [Project management](#project-management)
 - [Record](#record)
 - [Regex](#regex)
+- [Repair and maintenance](#repair-and-maintenance)
+- [Resumes](#resumes)
 - [Search engines](#search-engines)
 - [Space](#space)
+- [Stats](#stats)
 - [Texts](#texts)
 - [Tor](#tor)
 - [Bits and bobs](#bits-and-bobs)
@@ -78,6 +82,10 @@ A curated awesome list with multiple useful resources for developers (and other 
 ### CSS
 
 - __[Border radius](https://border-radius.com)__ CSS border radius generator
+
+### Database
+
+- __[PopSQL](https://popsql.com/learn-sql)__ Learn SQL on different langauges as PostgreSQL, Redshift, MySQL, SQL Server, BigQuery and Snowflake
 
 ### Git
 
@@ -243,6 +251,14 @@ A curated awesome list with multiple useful resources for developers (and other 
 - __[I hate Regex](https://ihateregex.io/)__ Regex expressions search tool
 - __[Regex 101](https://regex101.com/)__ Validate regex expressions
 
+## Repair and maintenance
+
+- __[iFixIt](https://www.ifixit.com/)__ Repair guides for everything
+
+## Resumes
+
+- __[Novo Resume](https://novoresume.com/)__ The professional resume builder by excellence
+
 ## Search engines
 
 - __[DuckDuckGo](https://duckduckgo.com/)__ Search engine that not trace you, using Google searching services
@@ -253,6 +269,10 @@ A curated awesome list with multiple useful resources for developers (and other 
 - __[ISS Camera](https://eol.jsc.nasa.gov/ESRS/HDEV)__ 24h vision of the earth from the ISS station
 - __[ISS transit finder](https://transit-finder.com)__ Calculates when the ISS will be visible from a location
 - __[Stuff in space](http://stuffin.space/)__ All the satellites around the globe
+
+## Stats
+
+- __[Cost of life](https://costoflive.com/)__ Community-powered cost of living insights 
 
 ## Texts
 
