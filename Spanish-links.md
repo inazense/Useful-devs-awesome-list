@@ -1,21 +1,21 @@
 # Useful devs awesome list
 
-A curated awesome list with multiple useful resources for developers (and other curious links too)
+Una lista organizada con recursos múltiples y útiles para desarrolladores (y otros links curiosos también)
 
-## Languages
+## Idiomas
 
-This list is available in next different languages:
+Esta lista está disponible en los siguientes idiomas:
 
-- [English](#categories)
-- [Spanish](/Spanish-links.md)
+- [Inglés](/README.md)
+- [Español](#categorías)
 
 
-## Categories
+## Categorías
 
-- [Ambient](#ambient)
+- [Ambiente](#ambient)
 - [Audio](#audio)
-- [Books](#books)
-- [Coding](#coding)
+- [Libros](#libros)
+- [Programación](#programación)
 	- [API](#api)
 	- [CSS](#css)
 	- [Database](#database)
@@ -70,11 +70,11 @@ This list is available in next different languages:
 
 - __[AudioMass](https://audiomass.co)__ Online audio editor
 
-## Ambient
+## Ambiente
 
-- __[Lofly](https://www.lofly.site)__ Lofy beats sounds and music
-- __[My noise](https://mynoise.net/)__ Sounds to be focus, relax, etc.
-- __[Rainy mood](https://rainymood.com/)__ Raining sounds
+- __[Lofly](https://www.lofly.site)__ Música y sonidos Lofy beats
+- __[My noise](https://mynoise.net/)__ Sonidos para concentrarse, relajarse, etc.
+- __[Rainy mood](https://rainymood.com/)__ Sonidos de lluvia
 
 ## Books
 
